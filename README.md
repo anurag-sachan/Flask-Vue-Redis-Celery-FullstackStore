@@ -64,6 +64,13 @@
 
 ## Screenshots
 - Please refer to the working demo-images from [**here**](demo-jpg).
+  
+User                  |  Admin
+:-------------------------:|:-------------------------:
+![](./demo-jpg/user_view.png)  |  ![](./demo-jpg/admin_manager_view.png)
+![](./demo-jpg/cart.png)  |  ![](./demo-jpg/products.png)
+![](./demo-jpg/orders.png)  |  ![](./demo-jpg/admin_dash.png)
+![](./demo-jpg/search.png)  |  
 
 <br/>
 Thanks,
