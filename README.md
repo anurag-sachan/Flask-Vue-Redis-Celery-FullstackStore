@@ -37,15 +37,15 @@
   > If database.db is not present
 
   ```shell
-  run python3 DB.py
+  python3 DB.py
   ```
   ```shell
-  run python3 app.py
+  python3 app.py
   ```
   
   > If database.db is already present
   ```shell
-  run python3 app.py
+  python3 app.py
   ```
 
 - Run the frontend:
